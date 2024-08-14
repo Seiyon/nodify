@@ -9,7 +9,7 @@
                 <ResourceDictionary Source="pack://application:,,,/Nodify;component/Themes/Light.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/Nodify.Shared;component/Themes/Icons.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/Nodify.Shared;component/Themes/Light.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/Nodify.StateMachine;component/Themes/Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/TestWpfApplication;component/Themes/Light.xaml" />
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
