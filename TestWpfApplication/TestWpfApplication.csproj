@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Examples\Nodify.Shared\Nodify.Shared.csproj" />
+    <ProjectReference Include="..\Examples\Nodify.StateMachine\Nodify.StateMachine.csproj" />
     <ProjectReference Include="..\Nodify\Nodify.csproj" />
   </ItemGroup>
 
